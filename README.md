@@ -22,7 +22,7 @@ Hi everyone, I'm Lefteris. I come from Greece. I graduated in Computer Science f
 
 ### Backend
 <img align="left" alt="NodeJS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Laravel" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" /><br />
+<img align="left" alt="Laravel" width="50px" style="padding-right:10px;" src="https://laravel.com/img/logomark.min.svg" /><br />
 <br/>
 
 ### Database
