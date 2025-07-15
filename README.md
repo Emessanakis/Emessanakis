@@ -32,9 +32,10 @@ Hi everyone, I'm Lefteris. I come from Greece. I graduated in Computer Science f
 <br/>
 
 ### Services
-<img align="left" alt="AWS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220037637-cff5669e-da0e-45de-98f1-cdf5b67fff26.png" /><br />
+<img align="left" alt="GitLab" width="50px" style="padding-right:10px;" src="https://about.gitlab.com/images/press/logo/svg/gitlab-icon-rgb.svg" />
+
 <br/>
 
 ### Tools
