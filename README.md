@@ -2,7 +2,13 @@
 
 **`Fullstack Developer`**
 
-Hi everyone, I'm Lefteris. I come from Greece. I graduated in Computer Science from the University of East London(Metropolitan College), Athens Marousi, Greece.
+Hi everyone, I'm Lefteris
+
+I'm a passionate **Computer Science graduate** from the **University of East London (Metropolitan College)** in **Athens, Greece 🇬🇷**.
+
+I love exploring new technologies, building software that solves real-world problems, and continuously improving my skills in development and design.
+My interests include **web development**, **AI**, and **open-source projects**.  
+I’m always learning, experimenting, and contributing wherever I can.
 
 ---
 
