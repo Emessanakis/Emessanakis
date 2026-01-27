@@ -1,6 +1,6 @@
 # Lefteris Messanakis
 
-**`Full Stack Development Engineer | React & TypeScript Specialist`**
+**`Full Stack Development Engineer | React & TypeScript Specialist | Node.js & Laravel`**
 
 Hi, I'm Lefteris. I'm a Full Stack Engineer focused on modernizing **mission-critical financial and educational platforms**. I design **high-performance React/TypeScript frontends** and **scalable Laravel/Node.js backends**, turning complex workflows into simple, automated solutions.
 
@@ -8,7 +8,7 @@ Hi, I'm Lefteris. I'm a Full Stack Engineer focused on modernizing **mission-cri
 
 ### 💼 Experience Highlights
 
-- **🏦 Credia Bank (06/2024 – Present)**  
+- **🏦 Credia Bank (06/2024 – 01/2026)**  
   Leading full-stack development for internal banking platforms, including **mass payments systems** and **insurance data analytics portals**. Built **multi-step approval workflows**, **real-time dashboards**, and robust PostgreSQL database architectures.
 
 - **🛡️ Security-Focused Engineering**  
